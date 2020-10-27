@@ -2,6 +2,7 @@
   "name": "memebot",
   "version": "1.0.0",
   "description": "Meme bot",
+  "repository": "https://github.com/Daanisaanwezig/mrMeeseeks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
